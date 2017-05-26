@@ -1,0 +1,12 @@
+{
+  "name": "blezer-example",
+  "version": "0.0.1",
+  "description": "Blezer Example Project",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blezer": "file:///Users/zaiste/code/zaiste/blezer",
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.5"
+  }
+}
